@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UpLoadImageTest_0</string>
+    <string name="choose_file">Choose a file</string>
+    <string name="get_upload_file_failed">选择上传文件失败!</string>
+    <string name="internal_storage">网络存储</string>
+    <string name="get_upload_token_failed">获取上传令牌失败</string>
+    <string name="upload_file_failed">上传文件失败</string>
+
+
+</resources>
