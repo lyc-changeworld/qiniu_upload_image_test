@@ -1,0 +1,1 @@
+# qiniu_upload_image_test
